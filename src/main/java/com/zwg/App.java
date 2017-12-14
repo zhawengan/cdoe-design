@@ -1,7 +1,7 @@
 package com.zwg;
 
 
-import com.zwg.simplefactory.SimpleFactory;
+import com.zwg.create.simplefactory.SimpleFactory;
 
 /**
  * Hello world!
